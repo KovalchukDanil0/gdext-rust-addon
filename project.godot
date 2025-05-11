@@ -13,7 +13,7 @@ config_version=5
 config/name="Gdext Rust Addon"
 run/main_scene="uid://bg671t5r0tqki"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://icon.png"
+config/icon="res://addons/rust-gdextension/icon.png"
 
 [dotnet]
 

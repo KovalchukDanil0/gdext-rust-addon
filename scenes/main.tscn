@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://bg671t5r0tqki"]
 
-[ext_resource type="Texture2D" uid="uid://cv0ccwtraiug4" path="res://icon.png" id="1_o5qli"]
+[ext_resource type="Texture2D" path="res://addons/rust-gdextension/icon.png" id="1_o5qli"]
 
 [node name="Main" type="Node2D"]
 

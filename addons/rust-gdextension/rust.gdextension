@@ -14,4 +14,4 @@ macos.debug.arm64 =      "target/debug/librust_gdextension.dylib"
 macos.release.arm64 =    "target/release/librust_gdextension.dylib"
 
 [icons]
-Player = "res://icon.png"
+Player = "icon.png"
